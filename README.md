@@ -1,2 +1,2 @@
-# python-challenge
-Homework 3 python repo
+# python-challange
+Module 3 challenge folder for Aaron Otto
